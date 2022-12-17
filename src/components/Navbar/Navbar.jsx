@@ -32,12 +32,6 @@ const Navbar = () => {
                 <div className="item">
                     <Link className='link' to="/">Home</Link>
                 </div>
-                <div className="item">
-                    <Link className='link' to="/">Location</Link>
-                </div>
-                <div className="item">
-                    <Link className='link' to="/">Contact</Link>
-                </div>
                 <div className="icons">
                 <SearchIcon/>
                 <PersonOutlineOutlinedIcon/>
