@@ -1,0 +1,123 @@
+.contact{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    padding:10px;
+    
+    .wrapper{
+        width: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        input{
+            border:none;
+            border-radius: 5px 0 0 5px;
+            padding:10px;
+        }
+
+        button{
+            border:none;
+            background: #333;
+            color:white;
+            padding:10px;
+            border-radius: 0 5px 5px 0;
+        }
+
+        .icons{
+            display: flex;
+            gap:10px;
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// .contact{
+//     background-color: antiquewhite;
+//     display: flex;
+//     justify-content: center;
+//     padding: 15px;
+
+//     .wrapper{
+//         width: 50%;
+//         display: flex;
+//         justify-content: space-between;
+//         align-items: center;
+
+//         input{
+//             padding:10px;
+//             border:none;
+//             border-radius: 5px 0 0 5px;
+//         }
+
+//         button{
+//             padding: 10px;
+//             color:white;
+//             background: #333;
+//             border:none;
+//             border-radius: 0 5px 5px 0;
+//         }
+
+//         .icons{
+//             display: flex;
+//             gap:10px;
+//         }
+//     }
+    
+// }
